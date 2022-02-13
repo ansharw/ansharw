@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="230" />
 
-<h3> 👨🏻‍💻 &nbsp;Tech Stack</h3>
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - An Web Dev & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
