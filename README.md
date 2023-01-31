@@ -23,6 +23,7 @@
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
