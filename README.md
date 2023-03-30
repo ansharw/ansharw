@@ -14,6 +14,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
